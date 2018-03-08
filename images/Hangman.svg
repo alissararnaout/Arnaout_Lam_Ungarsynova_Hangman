@@ -1,0 +1,35 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 284.93 584.23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>Hangman</title>
+  <circle id="head" class="cls-1" cx="134.55" cy="89.5" r="85.5"/>
+  <line id="body" class="cls-2" x1="134.55" y1="401" x2="134.55" y2="175"/>
+  <line id="leg_right" class="cls-2" x1="256.05" y1="582" x2="134.55" y2="401"/>
+  <line id="leg_left" class="cls-2" x1="49.05" y1="578" x2="134.55" y2="401"/>
+  <line id="arm_left" class="cls-2" x1="3.05" y1="330" x2="134.55" y2="175"/>
+  <line id="arm_right" class="cls-2" x1="282.05" y1="327" x2="141.05" y2="181"/>
+  <g id="eye_left">
+    <line class="cls-2" x1="77.8" y1="56.59" x2="104.8" y2="105.59"/>
+    <line class="cls-2" x1="68.8" y1="102.59" x2="108.8" y2="51.59"/>
+  </g>
+  <g id="eye_right">
+    <line class="cls-2" x1="164.3" y1="59.09" x2="191.3" y2="108.09"/>
+    <line class="cls-2" x1="155.3" y1="105.09" x2="195.3" y2="54.09"/>
+  </g>
+  <path id="mouth" class="cls-2" d="M252,246s20.83-14.39,50,0" transform="translate(-140.95 -106)"/>
+</svg>
