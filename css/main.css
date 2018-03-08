@@ -6,7 +6,10 @@
 	display: none;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 16a3c02a93648fe253f57025729b7d4cb86a6988
 body
 {
 	font-family: Helvetica, Arial, sans-serif;
@@ -15,6 +18,7 @@ body
 	padding-top: 20px;
 }
 
+<<<<<<< HEAD
 #container
 {
 	margin: 0 auto;
@@ -84,11 +88,17 @@ h1
 .button
 {
 	padding: 15px;
+=======
+.button
+{
+	padding: 10px;
+>>>>>>> 16a3c02a93648fe253f57025729b7d4cb86a6988
 	text-align: center;
 	text-decoration: none;
 	/*horiz offset, vertical offset, blir distance. RGBA: red, green, blue, alpha*/
 	box-shadow: 0 1px 2px rgba(0,0,0,.5);
 	border-radius: 5px;
+<<<<<<< HEAD
 	color: #000;
 	text-shadow: 1px 1px 1px rgba(0,0,0,.5);
 	font-size: 25px;
@@ -97,6 +107,14 @@ h1
 
 .button:active
 /*active is when a under click on a button*/
+=======
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.5);
+}
+
+.button:active
+/*active is when a uder click on a button*/
+>>>>>>> 16a3c02a93648fe253f57025729b7d4cb86a6988
 {
 	position: relative;
 	top: 2px;
@@ -167,8 +185,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3bc0e5', end
 	color: white;
 	background-color: rgba(0, 0, 0, 0.9);
 }
+<<<<<<< HEAD
 
 #head, #body, #leg_right, #leg_left, #arm_left, #arm_right, #eye_left, #eye_right, #mouth
 {
 	opacity: 0;
 }
+=======
+>>>>>>> 16a3c02a93648fe253f57025729b7d4cb86a6988
